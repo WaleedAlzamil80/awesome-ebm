@@ -36,6 +36,9 @@
 - [ ] Model-based planning for robotics
 - [ ] Language/Speech modeling
 
+## Repos
+https://github.com/matbun/EBM--Generative-Energy-Based-Modeling.git
+
 ## Papers (Reverse Chronological Order)
 
 ### 2023
